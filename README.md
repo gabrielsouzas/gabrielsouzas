@@ -27,18 +27,21 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 <a href="https://linkedin.com/in/gabriel-souza-b324a8b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-souza-b324a8b3" height="30" width="40" /></a>
 </p>
 
-</br>
-
 #
 ### 📉 Minhas estatísticas no GitHub:
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsouzas&show_icons=true&locale=en&layout=compact" alt="gabrielsouzas" /></p>
+<div>
+<a href="https://github.com/gabrielsouzas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouzas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsouzas&show_icons=true&locale=en&theme=dracula" alt="gabrielsouzas" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsouzas&theme=dracula" alt="gabrielsouzas" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsouzas&show_icons=true&locale=en" alt="gabrielsouzas" /></p>
+<p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsouzas&" alt="gabrielsouzas" /></p>
+<p></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielsouzas" alt="gabrielsouzas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielsouzas&theme=dracula" alt="gabrielsouzas" /></a> </p>
 
 
