@@ -28,6 +28,23 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 </p>
 
 #
+### 🚀 Alguns projetos que desenvolvi:
+
+## WorkOut - Calculadora de Calorias & Guia de Treino
+
+<img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_03.png" alt="Print 03" height="500">
+
+> Este App tem como objetivo calcular as calorias ingeridas por alimento. Além de possuir um guia com os treinos de cada musculo.
+
+#### Técnologias utilizadas: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+[Repositório](https://github.com/gabrielsouzas/calculadora-calorias)
+</br>
+[WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)
+
+#
 ### 📉 Minhas estatísticas no GitHub:
 </br>
 
