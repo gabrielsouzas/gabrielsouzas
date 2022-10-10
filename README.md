@@ -70,7 +70,7 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 [Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/calculadora/)
 </br>
-[Cakculadora](https://gabrielsouzas.github.io/projeto-uteis/javascript/calculadora/)
+[Calculadora](https://gabrielsouzas.github.io/projeto-uteis/javascript/calculadora/)
 
 #
 ### 📉 Minhas estatísticas no GitHub:
