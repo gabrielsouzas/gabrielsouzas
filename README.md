@@ -44,6 +44,34 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 </br>
 [WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)
 
+## Note App
+
+<img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/NOTEAPP.png" alt="Print 01" height="500">
+
+> App de anotações.
+
+#### Técnologias utilizadas: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+[Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/note-app/)
+</br>
+[Note App](https://gabrielsouzas.github.io/projeto-uteis/javascript/note-app/)
+
+## Calculadora em Javascript
+
+<img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/CALCULADORA.png" alt="Print 01" height="500">
+
+> Calculadora comum.
+
+#### Técnologias utilizadas: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+[Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/calculadora/)
+</br>
+[Cakculadora](https://gabrielsouzas.github.io/projeto-uteis/javascript/calculadora/)
+
 #
 ### 📉 Minhas estatísticas no GitHub:
 </br>
