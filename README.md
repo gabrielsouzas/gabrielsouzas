@@ -44,6 +44,20 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 </br>
 [WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)
 
+## LearnWithFun - App de ensino básico para crianças
+
+<img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_03.png" alt="Print 03" height="500">
+
+> Este App tem como objetivo ensinar cores para crianças.
+
+#### Técnologias utilizadas: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+[Repositório](https://github.com/gabrielsouzas/learn-with-fun)
+</br>
+[LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)
+
 ## Note App
 
 <img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/NOTEAPP.png" alt="Print 01" height="500">
@@ -57,20 +71,6 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 [Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/note-app/)
 </br>
 [Note App](https://gabrielsouzas.github.io/projeto-uteis/javascript/note-app/)
-
-## Calculadora em Javascript
-
-<img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/CALCULADORA.png" alt="Print 01" height="500">
-
-> Calculadora comum.
-
-#### Técnologias utilizadas: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-[Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/calculadora/)
-</br>
-[Calculadora](https://gabrielsouzas.github.io/projeto-uteis/javascript/calculadora/)
 
 #
 ### 📉 Minhas estatísticas no GitHub:
