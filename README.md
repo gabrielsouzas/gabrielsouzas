@@ -48,7 +48,7 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_03.png" alt="Print 03" height="500">
 
-> Este App tem como objetivo ensinar cores para crianças.
+> Este App tem como objetivo ensinar cores, formas geométricas, letras e numerais para crianças. A inspiração desse projeto foi o meu sobrinho de 3 anos, Théo, que é o principal testador deste software.
 
 #### Técnologias utilizadas: 
 
