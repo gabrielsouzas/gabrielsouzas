@@ -58,6 +58,20 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 </br>
 [LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)
 
+## Registro de Ponto - App simples para registrar horas trabalhadas
+
+<img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print03.png" alt="Print 03" height="500">
+
+> Este App tem como objetivo registrar o ponto do horário de serviço apenas com o uso do Local Storage do navegador, sem utilizar um banco de dados.
+
+#### Técnologias utilizadas: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+[Repositório](https://github.com/gabrielsouzas/registro-ponto)
+</br>
+[Registro de Ponto](https://gabrielsouzas.github.io/registro-ponto/)
+
 ## Note App
 
 <img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/NOTEAPP.png" alt="Print 01" height="500">
