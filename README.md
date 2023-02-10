@@ -72,19 +72,19 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 </br>
 [Registro de Ponto](https://gabrielsouzas.github.io/registro-ponto/)
 
-## Note App
+## Bomberman
 
-<img src="https://github.com/gabrielsouzas/projeto-uteis/raw/main/prints/NOTEAPP.png" alt="Print 01" height="500">
+<img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_01.png" alt="Print 01" height="400" width="450"> <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_02.png" alt="Print 02" height="400" width="450">
 
-> App de anotações.
+> Jogo em desenvolvimento para estudar a linguagem de programação Javascript.
 
 #### Técnologias utilizadas: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-[Repositório](https://github.com/gabrielsouzas/projeto-uteis/javascript/note-app/)
+[Repositório](https://github.com/gabrielsouzas/bomberman/)
 </br>
-[Note App](https://gabrielsouzas.github.io/projeto-uteis/javascript/note-app/)
+[Bomberman](https://gabrielsouzas.github.io/bomberman/)
 
 #
 ### 📉 Minhas estatísticas no GitHub:
