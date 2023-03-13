@@ -1,9 +1,9 @@
 ## Olá, me chamo **Gabriel Souza** ! 
 
 ### Bem vindo ao meu perfil GitHub 👋
-Tenho 31 anos e moro em Assis/SP. Sou formado em **Ciências da Computação** na **FEMA - Faculdade Educacional do Município de Assis** desde 2015.
+Tenho 32 anos e moro em Assis/SP. Sou formado em **Ciências da Computação** na **FEMA - Faculdade Educacional do Município de Assis** desde 2015.
 
-Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 6 anos e estou em busca de novos desafios através dos estudos em novas tecnologias e linguagens.
+Trabalho com desenvolvimento de software na linguagem de programação **Java** há mais de 6 anos e estou em busca de novos desafios através dos estudos em novas tecnologias e linguagens.
 #
 ### 🖥️ Tecnologias e Ferramentas:
 
@@ -40,10 +40,10 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-[Repositório](https://github.com/gabrielsouzas/calculadora-calorias)
+**[Repositório](https://github.com/gabrielsouzas/calculadora-calorias)**
 </br>
-[WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)
-
+**[WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)**
+<hr/>
 ## LearnWithFun - App de ensino básico para crianças
 
 <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_03.png" alt="Print 03" height="500">
@@ -54,10 +54,10 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-[Repositório](https://github.com/gabrielsouzas/learn-with-fun)
+**[Repositório](https://github.com/gabrielsouzas/learn-with-fun)**
 </br>
-[LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)
-
+**[LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)**
+<hr/>
 ## Registro de Ponto - App simples para registrar horas trabalhadas
 
 <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print03.png" alt="Print 03" height="500">
@@ -68,10 +68,10 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-[Repositório](https://github.com/gabrielsouzas/registro-ponto)
+**[Repositório](https://github.com/gabrielsouzas/registro-ponto)**
 </br>
-[Registro de Ponto](https://gabrielsouzas.github.io/registro-ponto/)
-
+**[Registro de Ponto](https://gabrielsouzas.github.io/registro-ponto/)**
+<hr/>
 ## Bomberman
 
 <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_01.png" alt="Print 01" height="400" width="450"> <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_02.png" alt="Print 02" height="400" width="450">
@@ -82,9 +82,9 @@ Trabalho com desenvolvimento na linguagem de programação **Java** há mais de 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-[Repositório](https://github.com/gabrielsouzas/bomberman/)
+**[Repositório](https://github.com/gabrielsouzas/bomberman/)**
 </br>
-[Bomberman](https://gabrielsouzas.github.io/bomberman/)
+**[Bomberman](https://gabrielsouzas.github.io/bomberman/)**
 
 #
 ### 📉 Minhas estatísticas no GitHub:
