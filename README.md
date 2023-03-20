@@ -44,6 +44,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 </br>
 **[WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)**
 <hr/>
+
 ## LearnWithFun - App de ensino básico para crianças
 
 <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_03.png" alt="Print 03" height="500">
@@ -58,6 +59,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 </br>
 **[LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)**
 <hr/>
+
 ## Registro de Ponto - App simples para registrar horas trabalhadas
 
 <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/registro-ponto/raw/main/print/print03.png" alt="Print 03" height="500">
@@ -72,6 +74,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 </br>
 **[Registro de Ponto](https://gabrielsouzas.github.io/registro-ponto/)**
 <hr/>
+
 ## Bomberman
 
 <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_01.png" alt="Print 01" height="400" width="450"> <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_02.png" alt="Print 02" height="400" width="450">
