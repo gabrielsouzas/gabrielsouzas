@@ -64,7 +64,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 
 ## React App Full-Stack - App React com a estrutura de um ERP
 
-<img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/login_page.png" alt="Print Screen" width=450> <img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/main_page.png" alt="Print Screen" width=450>
+<img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/login_page.png" alt="Print Screen" width=400> <img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/main_page.png" alt="Print Screen" width=400>
 
 > Este projeto tem como principal objetivo o desenvolvimento de uma aplicação full-stack, utilizando React no front-end e Node.js no back-end. A intenção é simular um software ERP, para se aproximar ao máximo de uma aplicação com funções para o mundo real. Está e estará sempre em desenvolvimento.
 
