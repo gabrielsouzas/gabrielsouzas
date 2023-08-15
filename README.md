@@ -84,7 +84,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 ##### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-##### Estrutura do projeto
+#### Estrutura do projeto:
 
 ```
     react-app-full-stack/
