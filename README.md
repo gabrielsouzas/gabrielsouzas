@@ -105,6 +105,8 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
     |    ├── public/
     |    ├── src/
     |    │   ├── components/
+    |    │   ├── context/
+    |    │   ├── interceptors/
     |    │   ├── pages/
     |    │   ├── services/
     |    │   ├── utils/
@@ -112,6 +114,17 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
     |    │   ├── index.js
     |    │   └── index.css
 ```
+
+## 🎯 Funções/Desenvolvimento
+
+- [X] Estrutura robusta para escalabilidade;
+- [X] Uso de variáveis de ambiente;
+- [X] Controle de rotas;
+- [X] Uso de middlewares para verificações;
+- [X] Autenticação com Tokens;
+- [X] Verifcação de tokens com uma white list;
+- [X] Utilização de interceptors nas requisições (verificação dos tokens antes de cada requisição);
+- [X] Uso do React Hook useContext para manipulação de estados em toda a aplicação;
 
 **[Repositório](https://github.com/gabrielsouzas/react-app-full-stack)**
 <hr/>
