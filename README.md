@@ -115,7 +115,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
     |    │   └── index.css
 ```
 
-## 🎯 Funções/Desenvolvimento
+#### 🎯 Funções/Desenvolvimento:
 
 - [X] Estrutura robusta para escalabilidade;
 - [X] Uso de variáveis de ambiente;
