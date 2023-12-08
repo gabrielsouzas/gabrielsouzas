@@ -130,19 +130,29 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 **[Repositório](https://github.com/gabrielsouzas/react-app-full-stack)**
 <hr/>
 
-## WorkOut - Calculadora de Calorias & Guia de Treino
+## Shape Progress App
 
-<img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_01.png" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_02.png" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/calculadora-calorias/raw/main/img/prints/Print_03.png" alt="Print 03" height="500">
+<img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_01.jpeg" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_02.jpeg" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_03.jpeg" alt="Print 03" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_04.jpeg" alt="Print 04" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_05.jpeg" alt="Print 05" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_06.jpeg" alt="Print 06" height="500">
 
-> Este App tem como objetivo calcular as calorias ingeridas por alimento. Além de possuir um guia com os treinos de cada musculo.
+> Aplicativo em desenvolvimento para monitorar o progresso na perda/ganho de peso.
 
-#### Técnologias utilizadas: 
+#### Principais funcionalidades:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+- Monitoramento diário das calorias consumidas e gastas;
+- Gráficos para proporcionar uma boa visão de progresso ao usuário;
+- Lista de alimentos e suas calorias para adicionar na alimentação diária;
+- Lista de exercícios para adicionar aos treinos diários;
+- Cálculo de calorias gastas por exercício e características do individuo;
 
-**[Repositório](https://github.com/gabrielsouzas/calculadora-calorias)**
-</br>
-**[WorkOut App](https://gabrielsouzas.github.io/calculadora-calorias/)**
+#### Técnologias e ferramentas utilizadas: 
+
+![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT NATIVE]([https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))
+![NODEJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+Em breve será disponibilizado para download na Play Store.
+
 <hr/>
 
 ## LearnWithFun - App de ensino básico para crianças
