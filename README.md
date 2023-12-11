@@ -132,7 +132,16 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 
 ## Shape Progress App
 
-<img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_01.jpeg" alt="Print 01" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_02.jpeg" alt="Print 02" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_03.jpeg" alt="Print 03" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_04.jpeg" alt="Print 04" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_05.jpeg" alt="Print 05" height="500"> <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_06.jpeg" alt="Print 06" height="500">
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_01.jpeg" alt="Print 01" style="max-width: 100%; height: 500; display: inline-block;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_02.jpeg" alt="Print 02" style="max-width: 100%; height: 500; display: inline-block;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_03.jpeg" alt="Print 03" style="max-width: 100%; height: 500; display: inline-block;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_04.jpeg" alt="Print 04" style="max-width: 100%; height: 500; display: inline-block;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_05.jpeg" alt="Print 05" style="max-width: 100%; height: 500; display: inline-block;">
+    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_06.jpeg" alt="Print 06" style="max-width: 100%; height: 500; display: inline-block;">
+</div>
+
+
 
 > Aplicativo em desenvolvimento para monitorar o progresso na perda/ganho de peso.
 
