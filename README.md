@@ -125,23 +125,14 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 - [X] Autenticação com Tokens;
 - [X] Verifcação de tokens com uma white list;
 - [X] Utilização de interceptors nas requisições (verificação dos tokens antes de cada requisição);
-- [X] Uso do React Hook useContext para manipulação de estados em toda a aplicação;
+- [X] Uso do React Hook useContext para manipulação de estados em toda a aplicação.
 
 **[Repositório](https://github.com/gabrielsouzas/react-app-full-stack)**
 <hr/>
 
 ## Shape Progress App
 
-<div style="overflow-x: auto; white-space: nowrap;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_01.jpeg" alt="Print 01" style="max-width: 100%; height: 500; display: inline-block;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_02.jpeg" alt="Print 02" style="max-width: 100%; height: 500; display: inline-block;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_03.jpeg" alt="Print 03" style="max-width: 100%; height: 500; display: inline-block;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_04.jpeg" alt="Print 04" style="max-width: 100%; height: 500; display: inline-block;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_05.jpeg" alt="Print 05" style="max-width: 100%; height: 500; display: inline-block;">
-    <img src="https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/print_06.jpeg" alt="Print 06" style="max-width: 100%; height: 500; display: inline-block;">
-</div>
-
-
+![Shape Progress App](https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/prints_gif.gif)
 
 > Aplicativo em desenvolvimento para monitorar o progresso na perda/ganho de peso.
 
@@ -151,7 +142,7 @@ Trabalho com desenvolvimento de software na linguagem de programação **Java** 
 - Gráficos para proporcionar uma boa visão de progresso ao usuário;
 - Lista de alimentos e suas calorias para adicionar na alimentação diária;
 - Lista de exercícios para adicionar aos treinos diários;
-- Cálculo de calorias gastas por exercício e características do individuo;
+- Cálculo de calorias gastas por exercício e características do individuo.
 
 #### Técnologias e ferramentas utilizadas: 
 
