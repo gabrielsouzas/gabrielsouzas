@@ -1,9 +1,9 @@
-## Olá, me chamo **Gabriel Souza** ! 
+## Olá, me chamo **Gabriel Souza**! 
 
 ### Bem vindo ao meu perfil GitHub 👋
 Tenho 32 anos e moro em Assis/SP. Sou formado em **Ciências da Computação** na **FEMA - Fundação Educacional do Município de Assis** desde 2015.
 
-Trabalho com desenvolvimento de software na linguagem de programação **Java** há mais de 6 anos e estou em busca de novos desafios através dos estudos em novas tecnologias e linguagens.
+Trabalho com desenvolvimento de software há mais de seis anos e estou em busca de novos desafios através dos estudos em novas tecnologias e linguagens.
 #
 ### 🖥️ Tecnologias e Ferramentas:
 </br>
