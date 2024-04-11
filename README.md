@@ -3,7 +3,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 Tenho 33 anos e moro em Assis/SP. Sou formado em **Ciências da Computação** na **FEMA - Fundação Educacional do Município de Assis** desde 2015.
 
-Com mais de seis anos de experiência em desenvolvimento de software, estou continuamente buscando por desafios que ampliem meu conhecimento e habilidades. Atualmente, concentro meus esforços no desenvolvimento mobile, com foco em tecnologias como Typescript, React Native e SQLite. Meu compromisso é aprimorar minhas competências técnicas e contribuir significativamente para projetos inovadores. Estou ansioso para colaborar e criar soluções excepcionais.
+Com mais de oito anos de experiência em desenvolvimento de software, estou continuamente buscando por desafios que ampliem meu conhecimento e habilidades. Atualmente, concentro meus esforços no desenvolvimento mobile, com foco em tecnologias como Typescript, React Native e SQLite. Meu compromisso é aprimorar minhas competências técnicas e contribuir significativamente para projetos inovadores. Estou ansioso para colaborar e criar soluções excepcionais.
 #
 ### 🖥️ Tecnologias e Ferramentas:
 </br>
