@@ -15,15 +15,23 @@ Com mais de oito anos de experiência em desenvolvimento de software, estou cont
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NODEJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![SOLID](https://img.shields.io/badge/SOLID-1F2E59?style=for-the-badge&logo=solid&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge&logo=oop&logoColor=white)
+![REGEXR](https://img.shields.io/badge/RegeXr-FFD700?style=for-the-badge&logo=regexr&logoColor=white)
 
 ![MICROSOFT EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MICROSOFT POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -31,11 +39,12 @@ Com mais de oito anos de experiência em desenvolvimento de software, estou cont
 ![DATASUL](https://img.shields.io/badge/Datasul-0078D4?style=for-the-badge&logo=datasul&logoColor=white)
 
 
-### 🌱 Estou estudando:
+### 🌱 Estou estudando sempre que posso, um pouco de cada:
 </br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&textColor=black)
-![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![DESIGN PATTERNS](https://img.shields.io/badge/Design_Patterns-228B22?style=for-the-badge&logo=designpatterns&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -63,7 +72,53 @@ Com mais de oito anos de experiência em desenvolvimento de software, estou cont
 #
 ### 🚀 Alguns projetos que desenvolvi:
 
-## React App Full-Stack - App React com a estrutura de um ERP
+Aqui estão três dos meus aplicativos mais recentes, cada um com uma breve descrição e imagens que ilustram suas funcionalidades.
+
+Principais tecnologias/ferramentas utilizadas:
+
+![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NODEJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+***Car Service App - Gerenciamento de Estética Automotiva***
+
+Este aplicativo foi desenvolvido para gerenciar os serviços de uma estética automotiva, incluindo lavagem, polimento, cristalização, entre outros. Ele também conta com um sistema de cadastro de clientes e relatórios detalhados de balanço financeiro diário, mensal e anual. Os dados são apresentados em gráficos, permitindo uma visualização clara do desempenho e das operações.
+
+| Serviços       | Gráfico Balanço  | Relatório Balanço  |
+| -------------- | ---------------- | ------------------ |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/services.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/graph.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/report01.jpeg" alt="Tela 1" width="350" /> |
+
+---
+
+***Shape Progress App - Controle de Perda/Ganho de Peso***
+
+Um aplicativo focado no controle de peso, permitindo o monitoramento do progresso por meio de gráficos dinâmicos. O usuário pode armazenar dados sobre treinos e alimentação, oferecendo uma visão integrada da evolução física ao longo do tempo, com métricas detalhadas e fácil acompanhamento.
+
+| Tela Principal | Alimentação      | Calorias de Treinos|
+| -------------- | ---------------- | ------------------ |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/mainScreen.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/caloriesIngestionCalc.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/dayTraining.jpeg" alt="Tela 1" width="350" /> |
+
+---
+
+***Price Compare App - Calculadora de Proporção de Preço***
+
+Aplicativo simples e eficaz para calcular a proporção de preço de produtos. Ele permite comparar preços de produtos em diferentes tamanhos e quantidades, apresentando os cálculos em forma de tabelas, facilitando a visualização e tomada de decisão com base em custo-benefício.
+
+| Serviços       | Gráfico Balanço  | Relatório Balanço  |
+| -------------- | ---------------- | ------------------ |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc01.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc02.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc03.jpeg" alt="Tela 1" width="350" /> |
+
+---
+
+Em breve serão disponibilizados para download na Play Store.
+
+### React App Full-Stack - App React com a estrutura de um ERP
 
 <img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/login_page.png" alt="Print Screen" width=400> <img src="https://github.com/gabrielsouzas/react-app-full-stack/raw/main/print_screens/main_page.png" alt="Print Screen" width=400>
 
@@ -130,59 +185,7 @@ Com mais de oito anos de experiência em desenvolvimento de software, estou cont
 **[Repositório](https://github.com/gabrielsouzas/react-app-full-stack)**
 <hr/>
 
-## Shape Progress App
-
-![Shape Progress App](https://github.com/gabrielsouzas/shape-progress-app-show/raw/main/assets/images/prints/prints_gif.gif)
-
-> Aplicativo em desenvolvimento para monitorar o progresso na perda/ganho de peso.
-
-#### Principais funcionalidades:
-
-- Monitoramento diário das calorias consumidas e gastas;
-- Gráficos para proporcionar uma boa visão de progresso ao usuário;
-- Lista de alimentos e suas calorias para adicionar na alimentação diária;
-- Lista de exercícios para adicionar aos treinos diários;
-- Cálculo de calorias gastas por exercício e características do individuo.
-
-#### Técnologias e ferramentas utilizadas: 
-
-![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NODEJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-Em breve será disponibilizado para download na Play Store.
-
 <hr/>
-
-## LearnWithFun - App de ensino básico para crianças
-
-<img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_01.png" alt="Print 01" height="450"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_02.png" alt="Print 02" height="450"> <img src="https://github.com/gabrielsouzas/learn-with-fun/raw/main/images/prototype/proto_03.png" alt="Print 03" height="450">
-
-> Este App tem como objetivo ensinar cores, formas geométricas, letras e numerais para crianças. A inspiração desse projeto foi o meu sobrinho de 3 anos, Théo, que é o principal testador deste software.
-
-#### Técnologias utilizadas: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-**[Repositório](https://github.com/gabrielsouzas/learn-with-fun)**
-</br>
-**[LearnWithFun App](https://gabrielsouzas.github.io/learn-with-fun/)**
-<hr/>
-
-## Bomberman
-
-<img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_01.png" alt="Print 01" height="300" width="350"> <img src="https://github.com/gabrielsouzas/bomberman/raw/main/img/prints/print_02.png" alt="Print 02" height="300" width="350">
-
-> Jogo em desenvolvimento para estudar a linguagem de programação Javascript.
-
-#### Técnologias utilizadas: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-**[Repositório](https://github.com/gabrielsouzas/bomberman/)**
-</br>
-**[Bomberman](https://gabrielsouzas.github.io/bomberman/)**
 
 #
 ### 📉 Minhas estatísticas no GitHub:
