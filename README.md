@@ -110,7 +110,7 @@ Um aplicativo focado no controle de peso, permitindo o monitoramento do progress
 
 Aplicativo simples e eficaz para calcular a proporção de preço de produtos. Ele permite comparar preços de produtos em diferentes tamanhos e quantidades, apresentando os cálculos em forma de tabelas, facilitando a visualização e tomada de decisão com base em custo-benefício.
 
-| Serviços       | Gráfico Balanço  | Relatório Balanço  |
+| Lista          | Um Produto       | Lista              |
 | -------------- | ---------------- | ------------------ |
 | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc01.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc02.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc03.jpeg" alt="Tela 1" width="350" /> |
 
