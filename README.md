@@ -92,7 +92,7 @@ Este aplicativo foi desenvolvido para gerenciar os serviços de uma estética au
 
 | Serviços       | Gráfico Balanço  | Relatório Balanço  |
 | -------------- | ---------------- | ------------------ |
-| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/services.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/graph.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/report01.jpeg" alt="Tela 1" width="350" /> |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/services.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/graph.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/report01.jpeg" alt="Tela 1" width="350" height="550" /> |
 
 ---
 
@@ -102,7 +102,7 @@ Um aplicativo focado no controle de peso, permitindo o monitoramento do progress
 
 | Tela Principal | Alimentação      | Calorias de Treinos|
 | -------------- | ---------------- | ------------------ |
-| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/mainScreen.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/caloriesIngestionCalc.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/dayTraining.jpeg" alt="Tela 1" width="350" /> |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/mainScreen.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/caloriesIngestionCalc.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/shape-progress-app/dayTraining.jpeg" alt="Tela 1" width="350" height="550" /> |
 
 ---
 
@@ -112,7 +112,7 @@ Aplicativo simples e eficaz para calcular a proporção de preço de produtos. E
 
 | Lista          | Um Produto       | Lista              |
 | -------------- | ---------------- | ------------------ |
-| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc01.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc02.jpeg" alt="Tela 1" width="350" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc03.jpeg" alt="Tela 1" width="350" /> |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc01.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc02.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/price-compare-app/priceCalc03.jpeg" alt="Tela 1" width="350" height="550" /> |
 
 ---
 
