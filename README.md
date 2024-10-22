@@ -92,7 +92,7 @@ Este aplicativo foi desenvolvido para gerenciar os serviços de uma estética au
 
 | Serviços       | Gráfico Balanço  | Relatório Balanço  |
 | -------------- | ---------------- | ------------------ |
-| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/services.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/graph.jpeg" alt="Tela 1" width="350" height="550" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/report01.jpeg" alt="Tela 1" width="350" height="550" /> |
+| <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/services.jpeg" alt="Tela 1" width="350" height="450" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/graph.jpeg" alt="Tela 1" width="350" height="450" /> | <img src="https://github.com/gabrielsouzas/my-apps-show/raw/main/car-service-app/report01.jpeg" alt="Tela 1" width="350" height="450" /> |
 
 ---
 
